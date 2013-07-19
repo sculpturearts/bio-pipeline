@@ -1,6 +1,8 @@
 # Authored by Aron Ahmadia
 # Who is totally awesome
 
+# Date: July 19, 2013
+
 %pylab 
 import numpy as np
 
